@@ -1,0 +1,3 @@
+[submodule "submodule"]
+	path = submodule
+	url = https://rgiurea@github.com/rgiurea/submodule.git
